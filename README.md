@@ -7,5 +7,9 @@ See [our battery data toolkit](https://github.com/materials-data-facility/batter
 
 ## Installation
 
-TBD for now, as Logan will publish battery data toolkit to PyPi after we have it ready to make data.
+Install the environment for this repository using Anaconda. 
+
+```bash
+conda env create --file environment.yml --force
+```
 

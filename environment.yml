@@ -1,0 +1,10 @@
+name: camp
+dependencies:
+  - python==3.10.*
+  - matplotlib==3.*
+  - pandas==1.*
+  - openpyxl
+  - jupyterlab  
+  - pip
+  - pip:
+    - battery-data-toolkit==0.1.*
