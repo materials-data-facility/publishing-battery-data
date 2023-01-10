@@ -7,4 +7,5 @@ dependencies:
   - jupyterlab  
   - pip
   - pip:
+    - mdf_connect_client
     - battery-data-toolkit==0.1.*
