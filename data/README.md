@@ -1,11 +1,5 @@
-# Data in HDF5 Format
+# CAMP 2023 Data
 
-These folders contain the data in HDF5 format. `refined` contains the 300 cells used in [Paulson et al.](https://www.sciencedirect.com/science/article/pii/S0378775322001495),
-and `other` contains any other cell for which we have documentation.
-
-An example of how to read a cell using Argonne's Battery Data Toolkit:
-
-```python
-from batdata.data import BatteryDataset
-BatteryDataset.from_batdata_hdf('./data/refined/batch_B28B_cell_2.h5')
-```
+The subdirectories of this folder contain the raw data in MACCOR format
+along with metadata in XSLX files (`raw-data`),
+and processed forms in HDF5 format that contain both data and metadata (`hdf5`).
