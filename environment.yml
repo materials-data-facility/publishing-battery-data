@@ -1,11 +1,10 @@
 name: camp
 dependencies:
-  - python==3.10.*
-  - matplotlib==3.*
-  - pandas==1.*
-  - openpyxl
-  - jupyterlab  
+  - python==3.11.*
   - pip
   - pip:
     - mdf_connect_client
-    - battery-data-toolkit==0.1.*
+    - matplotlib
+    - openpyxl
+    - tqdm
+    - battery-data-toolkit>0.3
