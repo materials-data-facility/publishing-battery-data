@@ -7,4 +7,4 @@ dependencies:
     - matplotlib
     - openpyxl
     - tqdm
-    - battery-data-toolkit>0.3
+    - battery-data-toolkit>=0.4
