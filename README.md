@@ -7,9 +7,9 @@ See [our battery data toolkit](https://github.com/materials-data-facility/batter
 
 ## Accessing the Data
 
-The data are available via the Materials Data Facility: [landing page](https://acdc.alcf.anl.gov/mdf/detail/camp_2023_v3.5/)
+The data are available via the Materials Data Facility: [landing page](https://doi.org/10.18126/s90e-dq90)
 
-You can download the entire data as a single ZIP file ([link](https://data.materialsdatafacility.org/mdf_open/camp_2023_v3.5/full_data.zip)),
+You can download the entire data as a single ZIP file ([link](https://data.materialsdatafacility.org/mdf_open/camp_2023/1.1/all_hdf5s.zip)),
 or use [Globus Transfer](https://docs.globus.org/how-to/get-started/) to get different subsets.
 
 ## Installation
